@@ -1,0 +1,35 @@
+_repo: Off-Sandy-Hook-and-other-stories_60452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dehan, Richard
+    alias: Graves, Clotilde Inez Mary
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '33039'
+    url: http://www.gutenberg.org/2009/agents/33039
+    wikipedia: http://en.wikipedia.org/wiki/Clotilde_Graves
+description: ''
+gutenberg_issued: '2019-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60452'
+  lccn: '15019407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Off Sandy Hook -- Gemini -- A dish of macaroni -- "Freddy & cie"
+  -- Under the electrics -- "Valcourt's grin" -- The evolution of the fairest -- The
+  revolt of Rustleton -- A dyspeptic's tragedy -- Renovation -- The breaking place
+  -- A Lancashire daisy -- A pitched battle -- The tug of war -- Gas! -- Air -- side!
+  -- A spirit elopement -- The widow's mite -- Susana and her elders -- Lady Clanbevan's
+  baby -- The duchess's dilemma -- The child -- A hindered honeymoon -- "Clothes--and
+  the man--!" -- The devil and deep sea.
+title: Off Sandy Hook, and other stories
+url: http://www.gutenberg.org/ebooks/60452
